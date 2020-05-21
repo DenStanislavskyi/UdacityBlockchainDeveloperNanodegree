@@ -7,7 +7,7 @@ Concepts like:
     - Blockchain
     - Wallet
     - Blockchain Identity
-    - Proof of Existance
+    - Proof of Existence
 
 Are some of the most important components in the Blockchain Framework that you will need to describe and also
 why not? Implement too.
